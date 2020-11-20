@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Q6on7kU2KKXQ06Q6R+7/gZ41JKkc8h8wJ/cH1NI96AXQnVc1kNuOB3p429e2je9FrrVyYRtLq/yTtYABkFIKQ==",
+  "dgSpecHash": "fAxPyRYplwaHS8kUy2jDaVOY/07YCsjx6X/jpExBLv4xQ/UAtj002u1EcF0rY3PizCakuUIvywo77JgBly40Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
+  "projectFilePath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Poncho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Poncho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
