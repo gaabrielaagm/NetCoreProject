@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj": {}
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Poncho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Poncho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj"
+              "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -43,6 +43,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -64,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Poncho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Poncho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj": {
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Poncho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\obj\\",
+        "outputPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Poncho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -138,8 +142,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj"
+              "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj"
               }
             }
           }

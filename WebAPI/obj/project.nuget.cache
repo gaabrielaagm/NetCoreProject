@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ts3RZOgMFrB+4UZ1R8NVDdxTIpWhwy4oGShDCMuYzLZq713j/JzFWLeIycQOGga3fEKd/Sd58uaMep3QhyK4Sg==",
+  "dgSpecHash": "Gv4hceOFY73OWahgYDJkPubg9WSS5FOtLHqNJtu22oADjFU+p67N1PVSQfw2DjCNoGlOZyX+XhRuHNPAHwIB1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Poncho\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Poncho\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Poncho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Poncho\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Poncho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

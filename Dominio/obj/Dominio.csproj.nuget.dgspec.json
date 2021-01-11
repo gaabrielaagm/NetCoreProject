@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {}
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Poncho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\obj\\",
+        "outputPath": "c:\\Users\\Poncho\\Documents\\GitHub\\NetCoreProject\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Poncho\\AppData\\Roaming\\NuGet\\NuGet.Config"
